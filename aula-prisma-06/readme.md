@@ -1,0 +1,1 @@
+migrations são muito boas e práticas de usar, porém, tem que tomar tanto cuidado quanto escrever query na mão, pois nesse exemplo, eu forcei uma att no banco que sabia que iria falhar, e após a falha, tentei novamente, e forcei uma reset total do banco para aplicar essa alteração.
