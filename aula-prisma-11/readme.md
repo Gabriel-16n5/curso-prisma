@@ -1,0 +1,1 @@
+Resolvi o erro p3005 (baseline) rodando o seguinte comando: npx prisma migrate resolve --applied 20230516201648_user_table
